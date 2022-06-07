@@ -1,0 +1,61 @@
+.navbar-brand{
+  color: black;
+}
+.navbar-brand:hover{
+  color: black;
+}
+.nav-item a{
+  color: black;
+}
+.nav-item a:hover{
+  color: black;
+}
+.btn{
+  background-color: white;
+  color: black;
+  border: solid;
+}
+.btn:hover{
+  color:white;
+  background-color: black;
+}
+.card{
+  background-color: rgb(14, 15, 22);
+  height: 40vh;
+  color: white;
+  text-align: center;
+  border: none;
+  border-radius: none;
+}
+.card-body{
+  margin-top: 50px;
+}
+.card-title{
+  font-size: 70px;
+  font-weight: bold;
+}
+.card-text{
+  font-size: 25px;
+}
+.cart{
+  width: 18rem;
+  margin-left: 30px;
+  margin-top: 40px;
+}
+.cart-title {
+  text-align: center;
+  font-weight: bold;
+  margin-top: 20px;
+}
+.cart-body p {
+  text-align: center;
+}
+.cart-body  a{
+  align-items: center;
+  margin-left: 70px;
+  margin-top: 20px;
+}
+.cart-body i{
+  padding-left: 30px;
+  color: orange;
+}
